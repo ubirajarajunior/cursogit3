@@ -4,7 +4,8 @@ namespace Projeto_Teste {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("Oi mundo!");
-            Console.ReadLine();
+            Console.WriteLine("Bom dia");
+            
         }
     }
 }
